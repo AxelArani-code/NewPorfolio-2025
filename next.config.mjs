@@ -4,8 +4,11 @@ import remarkGfm from "remark-gfm";
 import rehypePrism from "@mapbox/rehype-prism";
 
 const nextConfig = {
+  output: 'export',
   images: {
     domains: ["images.unsplash.com", "res.cloudinary.com", "i.pinimg.com", "media.licdn.com"],
+    loader: 'custom',
+   
   },
   experimental: {
     mdxRs: true,
