@@ -1,6 +1,6 @@
 import sidefolioAceternity from "/public/images/appDevTree.png";
 import sidefolioAceternity2 from "/public/images/appDevTree.png";
-import sidefolioAlgochurn from "public/images/appRepart.png";
+import sidefolioAlgochurn from "/public/images/appRepart.png";
 import sidefolioAlgochurn2 from "public/images/appRepart2.png";
 import sidefolioMoonbeam from "public/images/pinteres.png";
 import sidefolioMoonbeam2 from "public/images/pinteres.png";
