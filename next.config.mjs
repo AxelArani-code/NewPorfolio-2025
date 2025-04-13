@@ -7,7 +7,7 @@ const nextConfig = {
 
   images: {
     domains: ["images.unsplash.com", "res.cloudinary.com", "i.pinimg.com", "media.licdn.com"],
-    loader: 'custom',
+  
    
   },
   experimental: {
